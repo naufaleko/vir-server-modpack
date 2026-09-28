@@ -1,0 +1,11 @@
+name = "Vir's Server"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d1331115c14c85e8bf8823b1abef1212ae353c434d883ef0af7ca9721f94b1de"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"

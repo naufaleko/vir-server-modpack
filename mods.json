@@ -1,0 +1,117 @@
+{
+  "name": "Vir's Server",
+  "server": "163.52.135.197",
+  "minecraft": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.251",
+  "mods": [
+    {
+      "name": "AppleSkin",
+      "version": "3.0.9+mc1.21",
+      "filename": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246",
+      "size": 75804,
+      "side": "client"
+    },
+    {
+      "name": "Create",
+      "version": "6.0.10+mc1.21.1",
+      "filename": "create-1.21.1-6.0.10.jar",
+      "url": "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar",
+      "sha1": "0e97e49837bed766e6f28a4c95b04885d6acc353",
+      "size": 19123767,
+      "side": "both"
+    },
+    {
+      "name": "Create Aeronautics",
+      "version": "1.3.2+mc1.21.1",
+      "filename": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "url": "https://cdn.modrinth.com/data/oWaK0Q19/versions/44pLdPGg/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+      "sha1": "ddbe9cbc25e8f663218aa1e9fdfc4b99f0e11e4b",
+      "size": 33123131,
+      "side": "both"
+    },
+    {
+      "name": "FerriteCore",
+      "version": "7.0.3-neoforge",
+      "filename": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef",
+      "size": 121559,
+      "side": "both"
+    },
+    {
+      "name": "Jade",
+      "version": "15.10.6+neoforge",
+      "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
+      "url": "https://cdn.modrinth.com/data/nvQzSEkH/versions/eYz2YBGT/Jade-1.21.1-NeoForge-15.10.6.jar",
+      "sha1": "88ee316e68900080b017f60c12162e2731924cf8",
+      "size": 726853,
+      "side": "both"
+    },
+    {
+      "name": "Just Enough Items (JEI)",
+      "version": "19.51.0.418",
+      "filename": "jei-1.21.1-neoforge-19.51.0.418.jar",
+      "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ufHUqt9b/jei-1.21.1-neoforge-19.51.0.418.jar",
+      "sha1": "d19552586f686eae4ef5e7199f31604d1d3cfca7",
+      "size": 1804792,
+      "side": "both"
+    },
+    {
+      "name": "Lithium",
+      "version": "mc1.21.1-0.15.4-neoforge",
+      "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/DDUrRVCA/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+      "sha1": "97212e45c963730bbfc7c44780df99317814c21b",
+      "size": 774220,
+      "side": "both"
+    },
+    {
+      "name": "ModernFix",
+      "version": "5.27.24+mc1.21.1",
+      "filename": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/5HLHxQ2F/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+      "sha1": "1fe7f8b4176e86507cc8ed5460b6acdd3dac5529",
+      "size": 604333,
+      "side": "both"
+    },
+    {
+      "name": "Mouse Tweaks",
+      "version": "1.21-2.26.1-neoforge",
+      "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/9I21YYxf/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc",
+      "size": 73938,
+      "side": "client"
+    },
+    {
+      "name": "Sable",
+      "version": "2.0.5+mc1.21.1",
+      "filename": "sable-neoforge-1.21.1-2.0.5.jar",
+      "url": "https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar",
+      "sha1": "05f666e973d32baaaf405acb9bbed6615b909971",
+      "size": 12986136,
+      "side": "both"
+    },
+    {
+      "name": "Sodium",
+      "version": "mc1.21.1-0.8.13-neoforge",
+      "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/AANobbMI/versions/uMOpc5uV/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+      "sha1": "1757289be21ed18db5b0d90703fa3db1b2de5693",
+      "size": 1292934,
+      "side": "client"
+    },
+    {
+      "name": "spark",
+      "version": "1.10.124-neoforge-1.21.1",
+      "filename": "spark-1.10.124-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-neoforge.jar",
+      "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6",
+      "size": 3642581,
+      "side": "both"
+    }
+  ]
+}
